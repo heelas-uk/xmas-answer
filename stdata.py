@@ -3,7 +3,7 @@ import requests
 st.title("Xmas quiz submission :santa:")
 
 """Hi there,
-Thank you for joining us. You are already aware of the emails that inform you of the question. This quiz operates differently; the correct answer is not necessarily the right one, as you could really easily cheat. Instead, the correct answer is the one that most people choose, so majority rules apply. This is the only quiz with DEMOCRACY, LIBERTY, AND FREEDOM (even if the majority is wrong).
+Thank you for joining us. This quiz isn't about getting the right answer, it's about choosing the most popular answer.
  """
 
 
